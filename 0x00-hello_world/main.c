@@ -7,9 +7,6 @@
 */
 int main(void)
 {
-printf("main.c");
-}
-int main(void)
-{
+printf("c ic fun");
 return (0);
 }
